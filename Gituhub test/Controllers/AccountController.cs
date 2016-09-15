@@ -17,7 +17,7 @@ namespace Gituhub_test.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+        //Account Controller
         public AccountController()
         {
         }
